@@ -1,0 +1,46 @@
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(108%);
+}
+
+{
+    display: grid;
+}
+
+#boody{
+    width: 100vw;
+    height: 230vh;
+    background-color: Canvas;
+    color: CanvasText;
+    color-scheme: light dark;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#DJN{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#accordeon-button-descr{
+    background-color: #0b5ed7;
+    color: white;
+}
+#accordeon-button-cat{
+    background-color: #0b5ed7;
+    color: white;
+}
+
+.container {
+    border: 3px solid #00ffff;
+    box-shadow: 0 0 50px 0 #00a6bc;
+}
+
+#accordeon-button-serv{
+    background-color: #0b5ed7;
+    color: white;
+}
